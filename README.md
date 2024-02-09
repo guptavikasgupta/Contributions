@@ -9,10 +9,10 @@ Before you can create any contribution, you need to follow and adhere to any of 
 > [!CAUTION]  
 > Repositories that don't follow these guidelines will not be added into the community until the information is revisited or changed.
 
-- For videos: [How to create a video.md]()
-- For code repositories: [What do you need to push code.md]()
-- README best practices: [How to publish content.md]()
-- For Docs documentation: [How to write a Docs page.md]()
+- For videos: [How to create a video.md](https://github.com/Anthology-Community/Contributions/blob/main/Guides/How%20to%20create%20a%20video.md)
+- For code repositories: [What do you need to push code.md](https://github.com/Anthology-Community/Contributions/blob/main/Guides/What%20do%20you%20need%20to%20push%20code.md)
+- README best practices: [How to publish content.md](https://github.com/Anthology-Community/Contributions/blob/main/Guides/How%20to%20publish%20content.md)
+- For Docs documentation: [How to write a Docs page.md](https://github.com/Anthology-Community/Contributions/blob/main/Guides/How%20to%20write%20a%20Docs%20page.md)
 
 # To upload code to this organization
 
